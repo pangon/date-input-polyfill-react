@@ -330,13 +330,13 @@ const locales = {
   /* Swedish (Sweden) */
     'sv_sv-SE': {
         days: [
-            `Söndag`,
-            `Måndag`,
-            `Tisdag`,
-            `Onsdag`,
-            `Torsdag`,
-            `Fredag`,
-            `Lördag`
+            `Må`,
+            `Ti`,
+            `On`,
+            `To`,
+            `Fr`,
+            `Lö`,
+            `Sö`
         ],
         months: [
             `Januari`,
